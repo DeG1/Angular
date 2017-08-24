@@ -1,0 +1,16 @@
+.custom{
+	padding: 120px;
+	background-color:darksalmon;
+	color: #fff;
+}
+
+form .form-group{
+	border: 3px solid #fff;
+	padding: 7px;
+}
+
+form{
+	border: 3px solid #000;
+    border-radius: 6px;
+}
+
